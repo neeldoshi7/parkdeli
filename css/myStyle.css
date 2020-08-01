@@ -1,0 +1,19 @@
+body{
+  background-color: yellow;
+}
+.mainText{
+  font-size: 3.5vw;
+}
+.dineIn{
+  font-size: 1.5vw;
+}
+
+
+@media (max-width: 950px) {
+  .mainText{
+    font-size: 9vw;
+  }
+  .dineIn{
+    font-size: 6vw;
+  }
+}
